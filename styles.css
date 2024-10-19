@@ -1,0 +1,22 @@
+
+#navigation-bar {
+    background: rgba(251,251,251,255);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    font-size: larger;
+}
+
+#footer {
+    margin-top: 20px;
+    background: rgba(251,251,251,255);
+    box-shadow: 0 -5px 15px rgba(0, 0, 0, 0.2);
+}
+a {
+    text-decoration: none;
+    color: dimgrey;
+    transition: 0.3s;
+}
+
+a:hover {
+    font-weight: bolder;
+    color: black;
+}
